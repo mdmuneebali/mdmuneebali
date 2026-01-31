@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Data Science | Machine Learning | Data Analysis | DevOps**
 
-- 📫 How to reach me **nasirhussainshah174@gmail.com**
+- 📫 How to reach me **mdmuneebali706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
