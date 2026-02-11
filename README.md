@@ -22,7 +22,7 @@
 
 <!-- ================= RESUME ================= -->
 <p align="center">
-  <a href="https://github.com/mdmuneebali/raw/main/Mohammad_Muneeb_Ali_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/mdmuneebali/main/Mohammad_Muneeb_Ali_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe" />
   </a>
 </p>
@@ -42,7 +42,7 @@ I am a motivated **Data Science and Machine Learning professional** focused on b
 - 🎓 B.Tech in Computer Science Engineering  
 - 📊 Data Science • ML • Deep Learning  
 - 🏐 Inter-College Volleyball Champion (2023)  
-- 💡 Problem Solver • Team Player • Lifelong Learner  
+- 💡 Problem Solver • Team Player • Learner  
 
 ---
 
