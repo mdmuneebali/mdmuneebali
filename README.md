@@ -5,7 +5,7 @@
 
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ================= INTRO ================= -->
@@ -22,7 +22,7 @@
 
 <!-- ================= RESUME ================= -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/mdmuneebali/main/Mohammad_Muneeb_Ali_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/mdmuneebali/main/Mohammad_Muneeb_Ali_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe" />
   </a>
 </p>
@@ -37,20 +37,20 @@
 
 ## 🚀 About Me
 
-I am a motivated **Data Science and Machine Learning professional** focused on building scalable, real-world AI solutions.
+I am a motivated **Data Science and Machine Learning professional** focused on building scalable, real-world AI solutions and delivering data-driven insights.
 
 - 🎓 B.Tech in Computer Science Engineering  
-- 📊 Data Science • ML • Deep Learning  
+- 📊 Data Science • Machine Learning • Deep Learning  
 - 🏐 Inter-College Volleyball Champion (2023)  
-- 💡 Problem Solver • Team Player • Learner  
+- 💡 Problem Solver • Team Player • Continuous Learner  
 
 ---
 
 ## 📝 Professional Summary
 
 Motivated Data Science graduate with strong foundations in Machine Learning, Deep Learning, and Data Analysis.  
-Experienced in building end-to-end ML pipelines and delivering data-driven insights.  
-Eager to contribute analytical and problem-solving skills to growth-oriented organizations.
+Experienced in building end-to-end ML pipelines and working with real-world datasets.  
+Eager to contribute analytical and problem-solving skills to high-impact teams.
 
 ---
 
@@ -69,12 +69,12 @@ Eager to contribute analytical and problem-solving skills to growth-oriented org
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdmuneebali&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmuneebali&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdmuneebali&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmuneebali&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmuneebali&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmuneebali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Eager to contribute analytical and problem-solving skills to growth-oriented org
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmuneebali&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmuneebali&theme=darkhub&no-frame=true&margin-w=12" />
 </p>
 
 ---
@@ -115,43 +115,43 @@ Eager to contribute analytical and problem-solving skills to growth-oriented org
 
 ### 💻 Programming
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="46"/>
 </p>
 
 ---
 
 ### 📊 Data Science & ML
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="46"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="46"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="46"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="46"/>
 </p>
 
 ---
 
 ### 📈 Visualization
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48"/>
-  <img src="https://seaborn.pydata.org/_images/logo-dark-bg.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="46"/>
+  <img src="https://seaborn.pydata.org/_images/logo-dark-bg.svg" width="46"/>
+  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="46"/>
 </p>
 
 ---
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="46"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="46"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="46"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="46"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="46"/>
 </p>
 
 ---
