@@ -27,6 +27,12 @@
   </a>
 </p>
 
+<p align="center">
+📞 +91-7095771706 • 📧 mdmuneebali706@gmail.com <br>
+💻 <a href="https://github.com/mdmuneebali">GitHub</a> • 
+🌐 <a href="http://innovativemindsai.wordpress.com">Portfolio</a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -36,7 +42,27 @@ I am a motivated **Data Science and Machine Learning professional** focused on b
 - 🎓 B.Tech in Computer Science Engineering  
 - 📊 Data Science • ML • Deep Learning  
 - 🏐 Inter-College Volleyball Champion (2023)  
-- 💡 Problem Solver • Team Player • Learner  
+- 💡 Problem Solver • Team Player • Lifelong Learner  
+
+---
+
+## 📝 Professional Summary
+
+Motivated Data Science graduate with strong foundations in Machine Learning, Deep Learning, and Data Analysis.  
+Experienced in building end-to-end ML pipelines and delivering data-driven insights.  
+Eager to contribute analytical and problem-solving skills to growth-oriented organizations.
+
+---
+
+## 💼 Internship Experience
+
+### 📌 Data Scientist Intern — Rubixe (Apr 2025 – Nov 2025) | Bengaluru
+
+- Developed AI/ML-based business solutions  
+- Built classification & regression models  
+- Performed EDA, preprocessing & feature engineering  
+- Supported predictive analytics use cases  
+- Collaborated with cross-functional teams  
 
 ---
 
